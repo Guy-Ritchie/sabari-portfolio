@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "ordinary",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"skill_name",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "swam",
+							"type": "Text"
+						}
+					],
+					[
+						"skill_color",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "#4d36f6",
+							"type": "Color"
+						}
+					]
+				]
+			}
+		]
+	}
+]

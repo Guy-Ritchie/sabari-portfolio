@@ -1,3 +1,17 @@
+# Steps to setup Dev server
+```sh
+git clone {repo_url}
+cd sabari-kumar-portfolio
+npm install
+npm run dev # for Development Next.js Server
+npm run slicemachine # To create and edit slice data types locally.
+```
+
+### Credit:
+1. Prismic's official YouTube Channel, specifically [this video](https://youtu.be/rXDCAAkiC-s).
+
+<hr>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
